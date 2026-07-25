@@ -1,4 +1,4 @@
-ass Solution {
+class Solution {
     public boolean checkStraightLine(int[][] coordinates) {
 
         int xDiff = coordinates[1][0] - coordinates[0][0];
