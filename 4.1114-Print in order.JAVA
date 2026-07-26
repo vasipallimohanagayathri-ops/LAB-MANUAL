@@ -1,4 +1,4 @@
-mport java.util.concurrent.CountDownLatch;
+import java.util.concurrent.CountDownLatch;
 
 public class Foo {
     private final CountDownLatch latch1 = new CountDownLatch(1);
